@@ -2,8 +2,8 @@
 layout: home
 ---
 
-# Dem gifs tho
+# My Gif Collection
 
-Oh Hai! You've found my Gif collection.
+<p>Oh Hai! You've found my Gif collection. <br>Fork me on GitHub at <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> <br> (Hover to preview an image)</p>
 
-Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
+<p>Import into Gifwit with my <a href="library.gifwit">library</a>.</p>
